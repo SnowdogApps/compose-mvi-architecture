@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">compose-mvi-architecture</string>
+    <string name="error_common_title">An error has occurred</string>
+    <string name="error_common_description">Error has been reported. For further information please contact our support team.</string>
+</resources>
